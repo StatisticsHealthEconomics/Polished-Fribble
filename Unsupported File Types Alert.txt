@@ -1,0 +1,20 @@
+This is a message from the E-Mail Virus Protection System at UCL
+---------------------------------------------------------------------
+
+One or more of the original e-mail attachments have been removed and replaced with this message.
+
+* The attachment may have contained a virus or malware
+* The attachment may have an extension of a type unacceptable for UCL
+
+If you think any of these attachments is a legitimate file and you wish to
+receive it, please ask the sender to rename the file extension (eg
+rename file.ext to file.ex_) and resend it to avoid this constraint.
+On receiving the file you will have to save it and rename it back to
+its original extension.  
+
+--
+
+UCL E-mail Virus Protection System
+Servicedesk@ucl.ac.uk
+Internal phone: 25000
+returnClick.js	 js
